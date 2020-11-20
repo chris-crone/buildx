@@ -12,10 +12,10 @@ require (
 	github.com/containerd/console v1.0.1
 	github.com/containerd/containerd v1.4.1-0.20200903181227-d4e78200d6da
 	github.com/denisenkom/go-mssqldb v0.0.0-20190315220205-a8ed825ac853 // indirect
-	github.com/docker/cli v0.0.0-20200911150641-2955ece02443
+	github.com/docker/cli v20.10.0-rc1+incompatible
 	github.com/docker/compose-on-kubernetes v0.4.19-0.20190128150448-356b2919c496 // indirect
 	github.com/docker/distribution v2.7.1+incompatible
-	github.com/docker/docker v17.12.0-ce-rc1.0.20200730172259-9f28837c1d93+incompatible
+	github.com/docker/docker v20.10.0-rc1+incompatible
 	github.com/docker/go v1.5.1-1.0.20160303222718-d30aec9fd63c // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/libtrust v0.0.0-20150526203908-9cbd2a1374f4 // indirect
